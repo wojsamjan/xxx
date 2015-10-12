@@ -13,6 +13,6 @@ Zwykle zaczynamy od programu [hello world](/):
 
 ```c
 int main() {
-  printf("hello world\n")
+  printf("hello world\n");
 }
 ```
