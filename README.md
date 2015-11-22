@@ -10,7 +10,7 @@
 - [x] Atom edytor & linter gcc
 - [x] Podstawy Git
 - [x] Podstawy GitHub
-- 
+
 ### BASH
 - [x] podstawy dzialan na plikach i folderach
 - [x] podstawowe komendy: ls, find, grep itd
