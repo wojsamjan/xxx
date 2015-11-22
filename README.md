@@ -16,7 +16,7 @@
 - [x] podstawowe komendy: ls, find, grep itd
 
 
-## Pierwsze programy w C
+### Pierwsze programy w C
 
 Zwykle zaczynamy od programu [hello world](https://github.com/wojsamjan/xxx/blob/master/hello.c):
 
@@ -25,3 +25,6 @@ int main() {
   printf("hello world\n");
 }
 ```
+
+### Laboratoria
+1. 
