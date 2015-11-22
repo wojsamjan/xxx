@@ -27,4 +27,4 @@ int main() {
 ```
 
 ### Laboratoria
-1. 
+1. [Budowanie programow w C]()
