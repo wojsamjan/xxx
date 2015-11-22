@@ -1,11 +1,20 @@
-# Materiały do ćwiczeń dla dorosłych
+# Notatki
 
+### Markdown
 - [x] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/)
-- [x] coś jeszcze: Atom edytor, Bash, SSH, hasła 
 
-Bla, bla, bla...
+### SSH & hasla
+- [x] SSH & generowanie hasla
 
-Bla, ???
+### Git, GitHub & Atom
+- [x] Atom edytor & linter gcc
+- [x] Podstawy Git
+- [x] Podstawy GitHub
+- 
+### BASH
+- [x] podstawy dzialan na plikach i folderach
+- [x] podstawowe komendy: ls, find, grep itd
+
 
 ## Pierwsze programy w C
 
