@@ -18,7 +18,7 @@
 
 ## Pierwsze programy w C
 
-Zwykle zaczynamy od programu [hello world](/):
+Zwykle zaczynamy od programu [hello world](/xxx/hello.c):
 
 ```c
 int main() {
