@@ -1,0 +1,59 @@
+.
+mkdir temp
+cd temp
+mkdir dom
+mkdir nauka
+cd nauka
+mkdir c logo pascal
+cd ..
+mkdir praca
+cd praca
+mkdir dokumenty zlecenia
+cd zlecenia
+mkdir niezrealizowane zrealizowane
+
+2.
+cd ~/Pulpit/temp/dom
+mkdir wazne-sprawy
+
+3.
+cd wazne sprawy
+touch rachunki.txt
+
+4.
+cp rachunki.txt ~/Pulpit/temp/praca/zlecenia/zrealizowane
+
+5.
+cd ~/Pulpit/temp/praca/zlecenia/zrealizowane
+mv rachunki.txt wykonano.txt
+
+6.
+touch wykonano.txt
+vi wykonano.txt
+i
+1111111111 // 10znaków
+esc
+shf+:
+x
+split wykonano.txt --bytes=5
+
+7.
+cd ~/Pulpit/temp/nauka/logo
+cp ~/Pulpit/temp/praca/zlecenia/zrealizowane/x* ~/dokumenty
+
+8.
+cd ~/dokumenty
+cat x* > odtworzono.txt
+cp odtworzono.txt ~/Pulpit/temp/dom/wazne-sprawy
+
+9.
+cd ~/Pulpit/temp/dom/wazne-sprawy
+diff odtworzono.txt ~/Pulpit/temp/praca/zlecenia/zrealizowane/wykonano.txt
+
+10.
+cal 10 2009
+cal -3 10 2009
+cal -3 10 2009 | cut --bytes=1-44
+
+11.
+date +%A -d '1975-05-25'

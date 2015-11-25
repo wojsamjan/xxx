@@ -1,0 +1,21 @@
+1.
+find ~/ -mtime -10 -maxdepth 1
+
+2.
+wojciech@wojciech-VirtualBox:~/Pulpit$ find / -type f -name conf*
+
+3.
+wojciech@wojciech-VirtualBox:~/Pulpit$ find ~ -type f -atime +20
+
+4.
+wojciech@wojciech-VirtualBox:~/Pulpit$ find /etc -type d ! -empty; find /etc -type f -name a*
+
+5.
+wojciech@wojciech-VirtualBox:~/Pulpit$ rm x??
+LUB
+wojciech@wojciech-VirtualBox:~/Pulpit$ find x?? -delete
+
+6.
+mkdir `date +%Y-%m-%d`
+
+

@@ -1,0 +1,63 @@
+1.
+wojciech@wojciech-VirtualBox:~/Pulpit/testy$ ls | tr 'a-z' 'A-Z' 
+
+2.
+wojciech@wojciech-VirtualBox:~/Pulpit/testy$ ls -l | cut -c 1-10,31-33,48-
+
+LUB
+
+wojciech@wojciech-VirtualBox:~/Pulpit/testy$ ls -l | cut -b 1-10,31-33,48-
+
+-c wypisuje znaki, -b bajty; da ten sam efekt
+
+3.
+wojciech@wojciech-VirtualBox:~/Pulpit/testy$ ls -S 
+Sortuje od największego do najmniejszego pliku.
+
+wojciech@wojciech-VirtualBox:~/Pulpit/testy$ ls -S -r
+Sortuje od najmniejszego do największego pliku.
+
+4.
+wojciech@wojciech-VirtualBox:~/Pulpit/testy$ cat /etc/passwd | tr ':' ' ' | sort --key 3 -g -r | tr ' ' ':'
+
+5.
+wojciech@wojciech-VirtualBox:~/Pulpit/testy$ cat /etc/passwd | tr ':' ' ' | sort --key 4 -g -r | tr ' ' ':';
+ cat /etc/passwd | tr ':' ' ' | sort --key 3 -g -r | tr ' ' ':'
+
+6.
+
+
+7.
+wojciech@wojciech-VirtualBox:~/Pulpit$ find . -perm xxx | wc -l
+gdzie za xxx wstawić dowolny zestaw uprawnień
+
+8.
+#1  Zostanie stworzony lub nadpisany plik lsout.txt, do którego trafi zawartość listy katalogów i plików w obecnym katalogu.
+#2  Zostanie stworzony lub zostanie dopisana zawartość listy katalogów i plików w tym ukrytych, obecnych w bieżącym katalogu do pliku lsout.txt
+#3  Lista procesów zostanie zapisana w pliku psout.txt lub zostanie dopisana do tego pliku, o ile wcześniej istniał.
+#4  Informacja o pamięci wolnej i wykorzystywanej w systemie w mb zostanie zapisana w pliku wynik w katalogu domowym bądź dopisana do tego pliku, o ile plik ten wcześniej istniał.
+#5  Zabicie procesu 1234. Przekazanie komunikatów informacyjnych do pliku killout.txt a błędów do pliku killer.txt
+#6  Zabicie procesu 1234. Komunikaty informacyjne i błędy do pliku killout.txt
+#7  Zabicie procesu 1234. Komunikaty informacyjne jak i błędy do /dev/null
+#8  Sortowanie procesów w pliku psout.txt i zapisanie wyniku w pliku pssort.txt
+#9  Wywołane procesy zostaną posortowane a wynik tego sortowania zostanie zapisany w pliku pssort.txt a jeśli plik już instniał to zostanie nadpisany.
+#10 Zawartość pliku lsout.txt zostanie posortowana a wynik tego działania zostanie zapisany w pliku lssort.txt a jeśli plik już wcześniej istniał to zostanie nadpisany.
+#11 Lista zalogowanych userów zostanie posortowana i wyśwetlona bez możliwości cofania/zwijania listy; można tylko iść dalej.
+#12 Wyświetlenie listy zalogowanych userów z możliwością przewijania listy w przód i tył.
+#13 Znajdź obikety typu file/pliki i zlicz.
+#14 Znajdź obiekty typu file/pliki 
+
+
+
+9.
+
+			
+			
+
+
+
+
+
+
+
+

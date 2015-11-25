@@ -1,0 +1,50 @@
+1.
+pg -5 /etc/passwd
+
+2.
+wojciech@wojciech-VirtualBox:~/Pulpit$ cat > tekst1.txt
+zawartosc pliku1
+wojciech@wojciech-VirtualBox:~/Pulpit$ cat > tekst2.txt
+zawartosc pliku2
+wojciech@wojciech-VirtualBox:~/Pulpit$ cat tekst1.txt > tekst3.txt
+wojciech@wojciech-VirtualBox:~/Pulpit$ cat >> tekst3.txt
+klawiatura
+wojciech@wojciech-VirtualBox:~/Pulpit$ cat tekst2.txt >> tekst3.txt
+wojciech@wojciech-VirtualBox:~/Pulpit$ cat tekst3.txt
+zawartosc pliku1
+klawiatura
+zawartosc pliku2
+
+LUB
+
+wojciech@wojciech-VirtualBox:~/Pulpit$ cat tekst1.txt - tekst2.txt > tekst3.txt
+klawiatura
+wojciech@wojciech-VirtualBox:~/Pulpit$ cat tekst3.txt
+zawartosc pliku1
+klawiatura
+zawartosc pliku2
+
+3.
+wojciech@wojciech-VirtualBox:~/Pulpit$ head -5 -q /home/wojciech *
+
+4.
+wojciech@wojciech-VirtualBox:~/Pulpit$ cat /etc/passwd | head -5 | tail -3
+
+5.
+wojciech@wojciech-VirtualBox:~/Pulpit$ cat /etc/passwd | tail -7 | head -3
+
+6.
+wojciech@wojciech-VirtualBox:~/Pulpit$ cat /etc/passwd | tr '\n' ' '
+
+7.
+wojciech@wojciech-VirtualBox:~/Pulpit$ cat plik.txt | tr ' ' '\n'
+
+8.
+wojciech@wojciech-VirtualBox:~/Pulpit$ find /var/ -type f | wc -l
+
+9.
+wojciech@wojciech-VirtualBox:~/Pulpit$ head -3 /etc/passwd | wc -c
+
+
+
+

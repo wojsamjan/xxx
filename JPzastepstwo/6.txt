@@ -1,0 +1,18 @@
+1.
+wojciech@wojciech-VirtualBox:~/Pulpit$ grep "[[:alnum:]]" plik.txt
+
+2.
+wojciech@wojciech-VirtualBox:~/Pulpit$ grep ^[0-9] pl*
+
+3.
+wojciech@wojciech-VirtualBox:~/Pulpit/testy$ grep [????????r] *.txt
+
+4.
+wojciech@wojciech-VirtualBox:~/Pulpit$ grep -c bash /etc/passwd
+LUB
+wojciech@wojciech-VirtualBox:~/Pulpit$ cat /etc/passwd | grep bash | wc -l
+
+5.
+wojciech@wojciech-VirtualBox:~/Pulpit$ grep [IVXLCDM] plik.txt
+
+

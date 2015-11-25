@@ -1,0 +1,34 @@
+mkdir c
+cd c
+touch program.c
+
+
+1.
+head -2 program.c
+
+2.
+tail -4 program.c
+
+3.
+cat program.c | grep main
+
+4.
+chmod u+rw program.c
+chmod g+r program.c
+chmod o-rwx program.c
+
+5. mv dom/wazne-sprawy/ praca/
+
+6.
+zip -r temp.zip temp
+tar -cf temp.tar temp
+
+7.
+rm -r temp
+
+8.
+unzip temp.zip
+
+9.
+rm -r temp.zip
+rm -r temp.tar
