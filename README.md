@@ -28,7 +28,7 @@ int main() {
 }
 ```
 
-### Zastepstwo dr A. Borzyszkowski
+### Zastepstwo dr A. Borzyszkowski wg [wbzyl](http://wbzyl.inf.ug.edu.pl/sp/exercises)
 - [x] [Zrobione & Oddane](https://github.com/wojsamjan/xxx/tree/master/JPzastepstwo)
 
 ### Laboratoria
