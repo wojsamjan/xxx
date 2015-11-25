@@ -28,6 +28,9 @@ int main() {
 }
 ```
 
+### Zastepstwo dr A. Borzyszkowski
+
+
 ### Laboratoria
 1. [Budowanie programow w C]()
 2. [Petle](https://github.com/wojsamjan/xxx/tree/master/petle)
