@@ -33,7 +33,7 @@ int main() {
 
 ### Laboratoria
 
-UWAGA Kazdy program zawiera komentarz co wykonuje.
+UWAGA Kazdy program poczawszy od laboratorium nr 2 - [Budowanie programow w C](https://github.com/wojsamjan/xxx/tree/master/Budowanie%20programow%20w%20C) zawiera komentarz co wykonuje.
 
 1. [PodstawyC](https://github.com/wojsamjan/xxx/tree/master/1labJP)
 2. [Budowanie programow w C](https://github.com/wojsamjan/xxx/tree/master/Budowanie%20programow%20w%20C)
