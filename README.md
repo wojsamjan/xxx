@@ -1,7 +1,7 @@
 # Notatki
 
 ### Markdown
-- [x] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/)
+- [x] Podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/)
 
 
 ### SSH & hasla
@@ -15,8 +15,8 @@
 
 
 ### BASH
-- [x] podstawy dzialan na plikach i folderach
-- [x] podstawowe komendy: ls, find, grep itd
+- [x] Podstawy dzialan na plikach i folderach
+- [x] Podstawowe komendy: ls, find, grep itd
 
 
 ### Pierwsze programy w C
@@ -29,7 +29,7 @@ int main() {
 ```
 
 ### Zastepstwo dr A. Borzyszkowski
-
+- [x] [Zrobione & Oddane](https://github.com/wojsamjan/xxx/tree/master/JPzastepstwo)
 
 ### Laboratoria
 1. [Budowanie programow w C]()
