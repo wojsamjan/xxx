@@ -32,6 +32,9 @@ int main() {
 - [x] [Zrobione & Oddane](https://github.com/wojsamjan/xxx/tree/master/JPzastepstwo)
 
 ### Laboratoria
+
+UWAGA Kazdy program zawiera komentarz co wykonuje.
+
 1. [PodstawyC](https://github.com/wojsamjan/xxx/tree/master/1labJP)
 2. [Budowanie programow w C](https://github.com/wojsamjan/xxx/tree/master/Budowanie%20programow%20w%20C)
 3. [Petle](https://github.com/wojsamjan/xxx/tree/master/petle)
