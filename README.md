@@ -38,4 +38,4 @@ UWAGA Kazdy program poczawszy od laboratorium nr 2 - [Budowanie programow w C](h
 1. [PodstawyC](https://github.com/wojsamjan/xxx/tree/master/1labJP)
 2. [Budowanie programow w C](https://github.com/wojsamjan/xxx/tree/master/Budowanie%20programow%20w%20C)
 3. [Petle](https://github.com/wojsamjan/xxx/tree/master/petle) i więcej [PetleEXTRA](https://github.com/wojsamjan/xxx/tree/master/petle/petleEXTRA)
-4. [Funkcje]()
+4. [Funkcje](https://github.com/wojsamjan/xxx/tree/master/Funkcje)
