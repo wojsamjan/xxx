@@ -20,8 +20,8 @@
 
 
 ### Git & GitHub
-[GFM Github](https://help.github.com/articles/working-with-advanced-formatting/) 
-[Pro Git](https://git-scm.com/book/en/v2)
+- [GFM Github](https://help.github.com/articles/working-with-advanced-formatting/) 
+- [Pro Git](https://git-scm.com/book/en/v2)
 
 
 ### Pierwsze programy w C
