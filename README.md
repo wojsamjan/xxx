@@ -14,14 +14,14 @@
 - [x] Podstawy GitHub
 
 
-### Git & GitHub
-- [x] [GFM Github](https://help.github.com/articles/working-with-advanced-formatting/) 
-- [x] [Pro Git](https://git-scm.com/book/en/v2)
-
-
 ### BASH
 - [x] Podstawy dzialan na plikach i folderach
 - [x] Podstawowe komendy: ls, find, grep itd
+
+
+### Git & GitHub
+[GFM Github](https://help.github.com/articles/working-with-advanced-formatting/) 
+[Pro Git](https://git-scm.com/book/en/v2)
 
 
 ### Pierwsze programy w C
