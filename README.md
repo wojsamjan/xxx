@@ -20,7 +20,7 @@
 
 
 ### Git & GitHub
-- [GFM Github](https://help.github.com/articles/working-with-advanced-formatting/) 
+- [GFM Github](https://help.github.com/categories/writing-on-github/) 
 - [Pro Git](https://git-scm.com/book/en/v2)
 
 
